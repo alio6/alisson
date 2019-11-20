@@ -1,24 +1,10 @@
 <!DOCTYPE html>
 <html>
-<title>HTML Tutorial</ALISSON BAYONCI>
-<body>
+<title>APRENDER HMTL</title>
+<body>CUPERPO<body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>EL ENCABEZADO</h1>
+<p>PARAFO.</p>
 
 </body>
 </html>
-CSS Example:
-body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
